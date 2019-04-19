@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">New intant</string>
+    <string name="please_enter_your_name">please enter your name:</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="data_from_activity_3_will_displayed_here">Data from activity 3 will displayed here</string>
+    <string name="Please_enter_your_name">please enter your name</string>
+    <string name="welcome_to_activity_2">welcome to activity 2</string>
+    <string name="please_enter_your_surname">please enter your surname</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">cancel</string>
+</resources>
